@@ -172,10 +172,10 @@ To jump to the mentioned heading using the Heading ID
 ## Images
 
 ```md
-[![Visual Studio Code](/Pictures/vscode.png)](https://code.visualstudio.com/)
+[![LINUX](https://www.linux.org/images/logo.png)](https://www.linux.org/)
 ```
 
-[![Visual Studio Code](/Pictures/vscode.png)](https://code.visualstudio.com/)
+[![LINUX](https://www.linux.org/images/logo.png)](https://www.linux.org/)
 
 ---
 
